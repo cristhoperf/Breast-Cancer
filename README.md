@@ -53,6 +53,7 @@ El modelo fue evaluado sobre un conjunto independiente de 699 mamografías.
 
 Se utilizó **CBIS-DDSM (Curated Breast Imaging Subset of DDSM)**, disponible
 públicamente a través de The Cancer Imaging Archive (TCIA).
+[The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
 
 Debido a las condiciones de distribución y al tamaño del dataset, las imágenes
 mamográficas originales no se incluyen en este repositorio.
